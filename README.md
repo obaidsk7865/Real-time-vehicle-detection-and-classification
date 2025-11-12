@@ -1,2 +1,2 @@
 # Real-time-vehicle-detection-and-classification
-detecting vehicles and classifying them in real time
+The objective was to build a deep learning model capable of detecting and classifying vehicles (cars, buses, bikes, trucks) in real-time video streams. I utilized the YOLOv8 object detection architecture due to its balance of speed and accuracy. The dataset was a combination of Open Images Dataset and custom-labeled frames captured from traffic surveillance cameras.
